@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rongxian.YinPiaoLiCai.fu</string>
+				<string>com.fuzx.tswc.fu</string>
 				<key>bundle-version</key>
 				<string>1.0.7</string>
 				<key>kind</key>
